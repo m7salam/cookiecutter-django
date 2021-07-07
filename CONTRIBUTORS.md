@@ -713,6 +713,13 @@ Listed in alphabetical order.
     <td></td>
   </tr>
   <tr>
+    <td>Grant McLean</td>
+    <td>
+      <a href="https://github.com/grantm">grantm</a>
+    </td>
+    <td>grantmnz</td>
+  </tr>
+  <tr>
     <td>Guilherme Guy</td>
     <td>
       <a href="https://github.com/guilherme1guy">guilherme1guy</a>
@@ -753,6 +760,13 @@ Listed in alphabetical order.
       <a href="https://github.com/hjwp">hjwp</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Haseeb ur Rehman</td>
+    <td>
+      <a href="https://github.com/professorhaseeb">professorhaseeb</a>
+    </td>
+    <td>professorhaseeb</td>
   </tr>
   <tr>
     <td>Hendrik Schneider</td>
@@ -867,6 +881,13 @@ Listed in alphabetical order.
     <td>afrowave</td>
   </tr>
   <tr>
+    <td>John</td>
+    <td>
+      <a href="https://github.com/thorrak">thorrak</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>John Cass</td>
     <td>
       <a href="https://github.com/jcass77">jcass77</a>
@@ -968,6 +989,27 @@ Listed in alphabetical order.
     <td>Krzysztof Żuraw</td>
     <td>
       <a href="https://github.com/krzysztofzuraw">krzysztofzuraw</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kuo Chao Cheng</td>
+    <td>
+      <a href="https://github.com/wwwtony5488">wwwtony5488</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>lcd1232</td>
+    <td>
+      <a href="https://github.com/lcd1232">lcd1232</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LECbg</td>
+    <td>
+      <a href="https://github.com/LECbg">LECbg</a>
     </td>
     <td></td>
   </tr>
@@ -1217,6 +1259,13 @@ Listed in alphabetical order.
     <td></td>
   </tr>
   <tr>
+    <td>PJ Hoberman</td>
+    <td>
+      <a href="https://github.com/pjhoberman">pjhoberman</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Raony Guimarães Corrêa</td>
     <td>
       <a href="https://github.com/raonyguimaraes">raonyguimaraes</a>
@@ -1229,6 +1278,13 @@ Listed in alphabetical order.
       <a href="https://github.com/hackebrot">hackebrot</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Ray Besiga</td>
+    <td>
+      <a href="https://github.com/raybesiga">raybesiga</a>
+    </td>
+    <td>raybesiga</td>
   </tr>
   <tr>
     <td>Reggie Riser</td>
@@ -1343,6 +1399,13 @@ Listed in alphabetical order.
     <td></td>
   </tr>
   <tr>
+    <td>Tames McTigue</td>
+    <td>
+      <a href="https://github.com/Tamerz">Tamerz</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Tano Abeleyra</td>
     <td>
       <a href="https://github.com/tanoabeleyra">tanoabeleyra</a>
@@ -1418,6 +1481,13 @@ Listed in alphabetical order.
       <a href="https://github.com/Egregors">Egregors</a>
     </td>
     <td>egregors</td>
+  </tr>
+  <tr>
+    <td>vascop</td>
+    <td>
+      <a href="https://github.com/vascop">vascop</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Vicente G. Reyes</td>

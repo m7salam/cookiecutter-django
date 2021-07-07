@@ -1057,5 +1057,55 @@
     "name": "Yotam Tal",
     "github_login": "yotamtal",
     "twitter_username": ""
+  },
+  {
+    "name": "John",
+    "github_login": "thorrak",
+    "twitter_username": ""
+  },
+  {
+    "name": "vascop",
+    "github_login": "vascop",
+    "twitter_username": ""
+  },
+  {
+    "name": "PJ Hoberman",
+    "github_login": "pjhoberman",
+    "twitter_username": ""
+  },
+  {
+    "name": "lcd1232",
+    "github_login": "lcd1232",
+    "twitter_username": ""
+  },
+  {
+    "name": "Tames McTigue",
+    "github_login": "Tamerz",
+    "twitter_username": ""
+  },
+  {
+    "name": "Ray Besiga",
+    "github_login": "raybesiga",
+    "twitter_username": "raybesiga"
+  },
+  {
+    "name": "Grant McLean",
+    "github_login": "grantm",
+    "twitter_username": "grantmnz"
+  },
+  {
+    "name": "Kuo Chao Cheng",
+    "github_login": "wwwtony5488",
+    "twitter_username": ""
+  },
+  {
+    "name": "LECbg",
+    "github_login": "LECbg",
+    "twitter_username": ""
+  },
+  {
+    "name": "Haseeb ur Rehman",
+    "github_login": "professorhaseeb",
+    "twitter_username": "professorhaseeb"
   }
 ]
